@@ -1,0 +1,6 @@
+D:\임형구\workspace\demo3\obj\Debug\net462-windows\demo3.csproj.AssemblyReference.cache
+D:\임형구\workspace\demo3\obj\Debug\net462-windows\demo3.csproj.SuggestedBindingRedirects.cache
+D:\임형구\workspace\demo3\obj\Debug\net462-windows\demo3.GeneratedMSBuildEditorConfig.editorconfig
+D:\임형구\workspace\demo3\obj\Debug\net462-windows\demo3.AssemblyInfoInputs.cache
+D:\임형구\workspace\demo3\obj\Debug\net462-windows\demo3.AssemblyInfo.cs
+D:\임형구\workspace\demo3\obj\Debug\net462-windows\demo3.csproj.CoreCompileInputs.cache

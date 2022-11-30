@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YRcoXKdTEw21e6V1XHdY3+csFIF0LKZdy1xKRYJl4DNVPruEuim401CA4UoHqSIfEIRzzKIXHZ23wBd82aUMCQ==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\demo10.Models\\demo10.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\A\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.2\\microsoft.netframework.referenceassemblies.net462.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SXCeuuFWEfcOfdRyOS726+wdVBPmiO557o8VUx218i8fE5wO6ttrucUxV0D7tOYuXoU8Fc4K3zHrwzv4KEo9xw==",
+  "success": true,
+  "projectFilePath": "D:\\임형구\\workspace\\demo2\\demo2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\a\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\a\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.2\\microsoft.netframework.referenceassemblies.net462.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\임형구\workspace\demo3\bin\Debug\net6.0-windows\demo3.exe
+D:\임형구\workspace\demo3\bin\Debug\net6.0-windows\demo3.deps.json
+D:\임형구\workspace\demo3\bin\Debug\net6.0-windows\demo3.runtimeconfig.json
+D:\임형구\workspace\demo3\bin\Debug\net6.0-windows\demo3.dll
+D:\임형구\workspace\demo3\bin\Debug\net6.0-windows\demo3.pdb
+D:\임형구\workspace\demo3\obj\Debug\net6.0-windows\demo3.csproj.AssemblyReference.cache
+D:\임형구\workspace\demo3\obj\Debug\net6.0-windows\demo3.GeneratedMSBuildEditorConfig.editorconfig
+D:\임형구\workspace\demo3\obj\Debug\net6.0-windows\demo3.AssemblyInfoInputs.cache
+D:\임형구\workspace\demo3\obj\Debug\net6.0-windows\demo3.AssemblyInfo.cs
+D:\임형구\workspace\demo3\obj\Debug\net6.0-windows\demo3.csproj.CoreCompileInputs.cache
+D:\임형구\workspace\demo3\obj\Debug\net6.0-windows\demo3.dll
+D:\임형구\workspace\demo3\obj\Debug\net6.0-windows\refint\demo3.dll
+D:\임형구\workspace\demo3\obj\Debug\net6.0-windows\demo3.pdb
+D:\임형구\workspace\demo3\obj\Debug\net6.0-windows\demo3.genruntimeconfig.cache
+D:\임형구\workspace\demo3\obj\Debug\net6.0-windows\ref\demo3.dll
